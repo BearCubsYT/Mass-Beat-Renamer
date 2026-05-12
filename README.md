@@ -1,6 +1,6 @@
 # <span style="color:#6a329f">Mass Beat Renamer - A1.0.0
 
-This is an app that will allow for mass beat renaming to match a specific naming scheme. It will also create an MP3 when a wav file is given!
+This is an app that will allow for mass beat renaming to match a specific naming scheme. It will also create an MP3 when a WAV file is given!
 <br>
 <br>
 
