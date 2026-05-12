@@ -1,0 +1,4 @@
+colorama
+pydub
+ffmpeg
+audioop-lts
