@@ -18,10 +18,17 @@ This is an app that will allow for mass beat renaming to match a specific naming
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows: <span style="color:#48a0c7">https://www.youtube.com/watch?v=jPRIzVZulhA</span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mac: <span style="color:#48a0c7">https://www.youtube.com/watch?v=LWrDsP8O3JY
 
-<span style="color:#BE75BE"><b>3. Run this command in the terminal of the installation location of this app </b></span>
+<span style="color:#BE75BE"><b>3. Run these commands in the terminal of the installation location of this app </b></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command: <span style="color:#48a0c7">pip install -r "dependencies.txt"
 
-<span style="color:#BE75BE"><b>4. You can now run the app with no problems like any other normal python program </b>
+<span style="color:#BE75BE"><b>4. Then run try these 3 commands (varies from instalation to instalation) </b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command 1: <span style="color:#48a0c7">py converter.py
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command 2: <span style="color:#48a0c7">python converter.py
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command 3: <span style="color:#48a0c7">python3 converter.py
+
+<span style="color:#BE75BE"><b>5. Once you have the program running it'll ask you to paste the FULL file path to a folder with all the beats you would like to convert.</b>
+
+<span style="color:#BE75BE"><b>6. After that the instructions given in the program should be enough to let you rename all your beats!</b>
 
 ## <span style="color:#6a329f">Future Major Updates (In Order, Subject To Change)
 <span style="color:#BE75BE"><b>1. New Language </b></span>
